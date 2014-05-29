@@ -1,0 +1,16 @@
+body {
+	padding-top: 75px;
+}
+
+.background {
+	background-image:url(../img/background.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #bdd732;
+}
+
+/* Lists */
+.list-activiteiten {
+	margin-left: -37px;
+	list-style-type: none;
+}
